@@ -5,6 +5,6 @@
 2. Datalogger 🗂
 3. GNSS🛰
 4. Reconstrução de Pista 🗺
-### Meus Projetos
+### Meus Projetos 👤
 1. Extensômetria 🔧
 2. Rede CAN 🚌
