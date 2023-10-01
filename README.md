@@ -1,5 +1,5 @@
 
-# Diretor de Aquisição de Dados Formula Tesla 🏎
+# Diretor de Aquisição de Dados [Fórmula Tesla](https://github.com/Tesla-UFMG) 🏎
 ### Projetos sob Supervisão 👀
 1. Telemetria 📡
 2. Datalogger 🗂
